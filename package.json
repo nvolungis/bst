@@ -1,0 +1,9 @@
+{
+  "name": "Challenges",
+  "description": "Programming challenges",
+  "version": "0.0.1",
+  "devDependencies": {
+    "mocha": "*",
+    "sinon": "*"
+  }
+}
